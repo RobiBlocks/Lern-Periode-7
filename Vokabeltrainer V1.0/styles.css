@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+}
+header {
+    min-height: 15vh;
+    background-color: rgb(92, 92, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: aliceblue;
+}
+section {
+    min-height: 75vh;
+    background-color: rgb(244, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form {
+    padding: 200px;
+}
+footer {
+    min-height: 10vh;
+    background-color: rgb(144, 218, 255);
+}
