@@ -49,9 +49,3 @@ Heute habe ich zu erst die Tastatureingaben einlesen lasen. Anschliessend habe i
 - [ ] Als Spieler möchte ich im Menü, die Farbe der Schlange ändern können, um meine Schlange personalisieren zu können.
 
 Heute habe ich...
-
-### 22.11.2024
-
-- [ ] Schlange stirbt, wenn sie in sich selbst hineinfährt
-
-
