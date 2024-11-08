@@ -41,12 +41,8 @@ Heute habe ich zu erst die Tastatureingaben einlesen lasen. Anschliessend habe i
 ### 15.11.2024
 
 - [ ] Als Spieler möchte ich Früchte einsammeln können, wenn der Schlangenkopf die Frucht erreicht, damit die Schlange länger wird.
-  
-  - Wenn Kopf der Schlange == Position der Frucht
 
 - [ ] Als Spieler möchte ich das die Schlange wächst, wenn ich eine Frucht einsammle, damit das Spiel immer schwieriger wird.
-  
-  - Weisse Schlange einmal stoppen, einmal leere Taste in lastKeyPressed einfüge
 
 - [ ] Als Spieler möchte ich einen Start-/Gameover-/Highscore-Bildschirm erhalten, wenn meine Schlange stirbt, damit ich eine neue Runde starten kann.
 
