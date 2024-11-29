@@ -1,4 +1,4 @@
-# Lern-Periode-7
+Lern-Periode-7
 
 ## Grobplanung
 
@@ -59,13 +59,14 @@ Heute konnte ich mich nur mit dem Git Auftrag beschäftigen. Zuerst habe ich die
 
 ### 29.11.2024
 
-- [ ] Ich arbeite an der LB für M294 (Wir haben die LB noch nicht erhalten)
+- [ ] Ich implementiere die Startseite, die Finanzseite, die Loginseite und die Registrierseite.
   
-- [ ] Ich arbeite an der LB für M294 (Wir haben die LB noch nicht erhalten)
+- [ ] Ich implementiere die Funktion die Datensätze anzuzeigen und die Funktion einen neuen Eintrag zu erstellen.
   
-- [ ] Ich arbeite an der LB für M294 (Wir haben die LB noch nicht erhalten)
+- [ ] Ich implementiere die Funktion die Datensätze zu löschen und die Funktion einen bestehenden Eintrag zu bearbeiten.
   
-- [ ] Ich arbeite an der LB für M294 (Wir haben die LB noch nicht erhalten)
+
+- [ ] Ich speichere mein LB Projekt auf mit Git und lade es auf GitLab hoch. (Tutorial: [Learn Git - Getting Started on the Command Line - Episode 1 - YouTube](https://www.youtube.com/watch?v=EdEWigP6zxQ&list=PLyuRouwmQCjmYaG21ijCw0KrFiFEG0Oh9&ab_channel=SteveGriffith-Prof3ssorSt3v3))
   
 
 Heute habe ich...
