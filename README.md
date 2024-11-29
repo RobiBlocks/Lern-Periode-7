@@ -72,7 +72,7 @@ Heute habe ich die Loginseite implementiert. Auf der Loginseit kann man sich nun
 
 **Artefakt:**
 
-![Artefakt29112024gif](.../Artefakt_29112024.gif?msec=1732896765261)
+![Artefakt29112024gif](./Artefakt_29112024.gif?msec=1732896765261)
 
 ### 06.12.2024
 
