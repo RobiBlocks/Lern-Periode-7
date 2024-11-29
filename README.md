@@ -59,14 +59,32 @@ Heute konnte ich mich nur mit dem Git Auftrag beschäftigen. Zuerst habe ich die
 
 ### 29.11.2024
 
-- [ ] Ich implementiere die Startseite, die Finanzseite, die Loginseite und die Registrierseite.
+- [x] Ich implementiere die Startseite, die Finanzseite, die Loginseite und die Registrierseite.
+  
+- [x] Ich implementiere die Überprüfung der Logindaten.
   
 - [ ] Ich implementiere die Funktion die Datensätze anzuzeigen und die Funktion einen neuen Eintrag zu erstellen.
   
 - [ ] Ich implementiere die Funktion die Datensätze zu löschen und die Funktion einen bestehenden Eintrag zu bearbeiten.
   
 
-- [ ] Ich speichere mein LB Projekt auf mit Git und lade es auf GitLab hoch. (Tutorial: [Learn Git - Getting Started on the Command Line - Episode 1 - YouTube](https://www.youtube.com/watch?v=EdEWigP6zxQ&list=PLyuRouwmQCjmYaG21ijCw0KrFiFEG0Oh9&ab_channel=SteveGriffith-Prof3ssorSt3v3))
+Heute habe ich die Loginseite implementiert. Auf der Loginseit kann man sich nun einloggen. Man wird zur Startseite weitergeleitet, wenn man einen Account registriert hat. Das abrufen der Logindaten durch `fetch GET` war sehr aufwendig. Nach langer recherche konnte ich meine Fehler lösen. Anschliessend habe ich mithilfe von DOM Knöpfe erstellt, welche die gewünschten Elemente anzeigen und verschwinden lässt. Dadurch gewährleiste ich die Seite eine SPA ist. Da ich viele Schwierigkeiten bei `fetch GET` konnte ich die letzten APs nicht mehr bearbeiten. (82 Wörter)
+
+**Artefakt:**
+
+![Artefakt29112024gif](.../Artefakt_29112024.gif?msec=1732896765261)
+
+### 06.12.2024
+
+- [ ] Ich löse das 1. Türchen vom AdventOfCode
   
+- [ ] Ich löse das 2. Türchen vom AdventOfCode
+  
+- [ ] Als Spieler möchte ich Früchte einsammeln können, wenn der Schlangenkopf die Frucht erreicht, damit die Schlange länger wird.
+  
+  - Wenn Kopf der Schlange == Position der Frucht
+- [ ] Als Spieler möchte ich das die Schlange wächst, wenn ich eine Frucht einsammle, damit das Spiel immer schwieriger wird.
+  
+  - Wenn Kopf der Schlange == Position der Frucht
 
 Heute habe ich...
