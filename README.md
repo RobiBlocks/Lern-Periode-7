@@ -72,19 +72,30 @@ Heute habe ich die Loginseite implementiert. Auf der Loginseit kann man sich nun
 
 **Artefakt:**
 
-![Artefakt29112024gif](./Artefakt_29112024.gif?msec=1732896765261)
+![Artefakt29112024gif](file:///C:/Users/robin/OneDrive%20-%20BBBaden/Lernatelier/Lernperiode%207%20-%20JavaScript/Artefakt_29112024.gif?msec=1733502862095)
 
 ### 06.12.2024
 
-- [ ] Ich löse das 1. Türchen vom AdventOfCode
+- [x] Ich löse das 1. Türchen vom Advent of Code
   
-- [ ] Ich löse das 2. Türchen vom AdventOfCode
+- [ ] Ich löse das 2. Türchen vom Advent of Code
   
-- [ ] Als Spieler möchte ich Früchte einsammeln können, wenn der Schlangenkopf die Frucht erreicht, damit die Schlange länger wird.
+- [ ] Ich löse das 3. Türchen vom Advent of Code
   
-  - Wenn Kopf der Schlange == Position der Frucht
-- [ ] Als Spieler möchte ich das die Schlange wächst, wenn ich eine Frucht einsammle, damit das Spiel immer schwieriger wird.
+- [ ] Ich löse das 4. Türchen vom Advent of Code
   
-  - Wenn Kopf der Schlange == Position der Frucht
+
+Heute habe ich zum ersten mal am Advent of Code gearbeitet. Zuerst habe ich mir die Beschreibung des 1. Türchens angeschaut. Danach ging ich auf das aoc Reddit, um einen Idee zu bekommen. Dann habe ich `node.js` auf meinen privaten Computer heruntergeladen. Allerdings ist der Download einmal abgestürzt und ich musste ihn wiederholen. Anschliessend habe ich meine Idee umgesetzt. Ich musste sehr viel im Internet recherchieren und habe vieles über `node.js` und `JavaScript` gelernt. (74 Wörter)
+
+### 13.12.2024
+
+- [ ] Ich löse den 2. Teil des 1. Türchen vom Advent of Code
+  
+- [ ] Ich löse den 1. Teil des 2. Türchen vom Advent of Code
+  
+- [ ] Ich löse den 2. Teil des 3. Türchen vom Advent of Code 
+
+- [ ] Ich löse den 1. Teil des 4. Türchen vom Advent of Code
+  
 
 Heute habe ich...
