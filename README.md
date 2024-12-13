@@ -93,12 +93,12 @@ Heute habe ich zum ersten mal am Advent of Code gearbeitet. Zuerst habe ich mir 
   
 - [x] Als Spieler möchte ich, dass die Schlange stoppt wenn sie am Rand in die Wand schlängelt.
   
-- [ ] Ich löse den 2. Teil des 1. Türchen vom Advent of Code.
+- [x] Ich löse den 2. Teil des 1. Türchen vom Advent of Code.
   
 - [ ] Ich löse den 1. Teil des 2. Türchen vom Advent of Code
   
 
-Heute habe ich...
+Heute habe ich mich endlich wieder einmal, um mein Snake Spiel gekümmert. Ich konnte den Fehler, das die zweite Schlange nicht der ersten Schlange folgt, beheben. Wenn die Schlange nun in die Wand fährt bleibt sie stehen. Man kann immer noch der Wand entlang fahren. Anschliessend habe ich den 2. Teil des 1. Türchen des Advent of Code gelöst. Dies ging sehr schnell, da ich den grössten Teil des Codes schon vorhanden war aus dem 1. Teil. Mit dem 2. Türchen habe ich begonnen. Allerdings konnte ich es noch nicht beenden. (91 Wörter)
 
 ### 20.12.2024
 
