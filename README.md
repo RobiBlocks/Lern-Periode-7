@@ -38,7 +38,7 @@ Heute habe ich meinen Vokabeltrainer zum laufen bekommen. Er zeigt nun die zu ü
 - [ ] Als Spieler möchte ich, dass die Schlange stoppt wenn sie am Rand in die Wand schlängelt.
   
 
-Heute habe ich zu erst die Tastatureingaben einlesen lasen. Anschliessend habe ich die Schlange immer, wenn man eine Taste gedrückt hat, ein Feld in die entsprechende Richtung gehen lassen. Danach habe ich noch eine zweite Schlange einprogrammiert, die der ersten Schlange hinterhergeht, damit die Illusion entsteht die erste Schlange bewege sich. Diese zweite Schlange wird am Schluss weiss (jetzt ist sie blau). Als ich mich dann aber am kontinuierlich fortbewegen der Schlange arbeitete, musste ich die Logik mit einem gameloop umstrukturieren, weshalb die zweite Schlange nun nicht mehr der ersten hinterhergeht. Die Schlange und das Script stoppt nun, wenn die Schlange den oberen oder den linken Rand berührt. (108 Wörter.)
+Heute habe ich zu erst die Tastatureingaben einlesen lassen. Anschliessend habe ich die Schlange immer, wenn man eine Taste gedrückt hat, ein Feld in die entsprechende Richtung gehen lassen. Danach habe ich noch eine zweite Schlange einprogrammiert, die der ersten Schlange hinterhergeht, damit die Illusion entsteht die erste Schlange bewege sich. Diese zweite Schlange wird am Schluss weiss (jetzt ist sie blau). Als ich mich dann aber am kontinuierlich fortbewegen der Schlange arbeitete, musste ich die Logik mit einem gameloop umstrukturieren, weshalb die zweite Schlange nun nicht mehr der ersten hinterhergeht. Die Schlange und das Script stoppt nun, wenn die Schlange den oberen oder den linken Rand berührt. (108 Wörter.)
 
 ### 15.11.2024
 
@@ -89,14 +89,22 @@ Heute habe ich zum ersten mal am Advent of Code gearbeitet. Zuerst habe ich mir 
 
 ### 13.12.2024
 
-- [ ] Als Programmierer möchte ich, dass die blaue Schlange der grünen Schlange hinterher geht, damit es so aussieht als ob sich die Schlange sich fortbewege.
+- [x] Als Programmierer möchte ich, dass die blaue Schlange der grünen Schlange hinterher geht, damit es so aussieht als ob sich die Schlange sich fortbewege.
   
-- [ ] Als Spieler möchte ich, dass die Schlange stoppt wenn sie am Rand in die Wand schlängelt.
+- [x] Als Spieler möchte ich, dass die Schlange stoppt wenn sie am Rand in die Wand schlängelt.
   
-- [ ] Schlange stirbt, wenn sie in sich selbst hineinfährt
+- [ ] Ich löse den 2. Teil des 1. Türchen vom Advent of Code.
+  
+- [ ] Ich löse den 1. Teil des 2. Türchen vom Advent of Code
   
 
-- [ ] Ich löse den 2. Teil des 1. Türchen vom Advent of Code
+Heute habe ich...
+
+### 20.12.2024
+
+- [ ] Als Spieler möchte ich das eine neue Frucht erscheint und der Highscore, um eins steigt, wenn ich eine Frucht einsammle, damit ich weiss wohin ich mich bewegen muss. (Wenn Kopf der Schlange == Position der Frucht)
+  
+- [ ] Als Spieler möchte ich das die Schlange ein Pixel länger wird, wenn ich eine Frucht einsammle, damit das Spiel immer schwieriger wird. (Zweite Schlange stoppt für einen Pixel)
   
 
 Heute habe ich...
