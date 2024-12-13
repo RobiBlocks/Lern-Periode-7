@@ -72,7 +72,7 @@ Heute habe ich die Loginseite implementiert. Auf der Loginseit kann man sich nun
 
 **Artefakt:**
 
-![Artefakt29112024gif](Artefakt_29112024.gif)
+![Artefakt29112024gif](file:///C:/Users/robin/OneDrive%20-%20BBBaden/Lernatelier/Lernperiode%207%20-%20JavaScript/Artefakt_29112024.gif?msec=1734093218701)
 
 ### 06.12.2024
 
@@ -89,13 +89,14 @@ Heute habe ich zum ersten mal am Advent of Code gearbeitet. Zuerst habe ich mir 
 
 ### 13.12.2024
 
-- [ ] Ich löse den 2. Teil des 1. Türchen vom Advent of Code
+- [ ] Als Programmierer möchte ich, dass die blaue Schlange der grünen Schlange hinterher geht, damit es so aussieht als ob sich die Schlange sich fortbewege.
   
-- [ ] Ich löse den 1. Teil des 2. Türchen vom Advent of Code
+- [ ] Als Spieler möchte ich, dass die Schlange stoppt wenn sie am Rand in die Wand schlängelt.
   
-- [ ] Ich löse den 2. Teil des 3. Türchen vom Advent of Code 
+- [ ] Schlange stirbt, wenn sie in sich selbst hineinfährt
+  
 
-- [ ] Ich löse den 1. Teil des 4. Türchen vom Advent of Code
+- [ ] Ich löse den 2. Teil des 1. Türchen vom Advent of Code
   
 
 Heute habe ich...
