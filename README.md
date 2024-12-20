@@ -78,7 +78,7 @@ Heute habe ich die Loginseite implementiert. Auf der Loginseit kann man sich nun
 
 **Artefakt:**
 
-<img src="file:///C:/Users/robin/OneDrive%20-%20BBBaden/Lernatelier/Lernperiode%207%20-%20JavaScript/Artefakt_29112024.gif" title="" alt="Artefakt_29112024.gif" width="693">
+![Artefakt_29112024.gif](Artefakt_29112024.gif)
 
 ### 06.12.2024
 
