@@ -8,7 +8,7 @@ Sobald die Schlange eine rote Frucht frisst erhöht dich der Highscore um eins u
 
 Sobald man in die Wand fährt ist das Spiel zu ende.
 
-![Artefakt_20122024.gif](C:\Users\robin\OneDrive%20-%20BBBaden\Lernatelier\Lernperiode%207%20-%20JavaScript\Artefakt_20122024.gif)
+![Artefakt_20122024.gif](Artefakt_20122024.gif)
 
 ## Grobplanung
 
